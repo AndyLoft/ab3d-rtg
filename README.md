@@ -1,7 +1,7 @@
-# ab3d-nonRtg
-Alien Breed 3D
+Alien Breed 3D RTG
 
-Based on Team17's original AB3D & John Girvin's Alien Breed 3D - SE (RTG) source.
+Based on John Girvin's original AB3D-RTG source.
 
 The Alien Breed 3D source was part of the Alien Breed 3D II The Killing Grounds source release.
+John managed to get Ab3D compile and made Chunky-Copper render to output to an RTG screen.
 
